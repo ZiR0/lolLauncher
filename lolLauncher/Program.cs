@@ -9,7 +9,7 @@ namespace lolLauncher
 
         static void Main(string[] args)
         {
-            Console.Title = "lolLauncher - An unnecessary tool for unnecessary changes done by unnecessary devs...";
+            Console.Title = "lolLauncher - A tool for unnecessary changes done by skilled devs...";
             if (File.Exists("ygeR.cfg"))
             {
                 AppDomain.CurrentDomain.SetData("APP_CONFIG_FILE", "ygeR.cfg");
