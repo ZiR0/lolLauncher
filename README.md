@@ -1,1 +1,1 @@
-## lolLauncher | A tool for making language changes persistent.
+lolLauncher | A tool for making language changes persistent.
